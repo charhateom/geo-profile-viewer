@@ -45,7 +45,6 @@ geo-profile-viewer/
 ├── package.json
 └── README.md
 
-
 ---
 
 ## 🚀 Getting Started Locally
