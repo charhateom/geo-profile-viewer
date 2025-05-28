@@ -5,9 +5,6 @@ This project offers a clean and intuitive UI to explore and understand user data
 
 🔗 **Live Demo**: [https://geo-profile-viewer-eight.vercel.app/](https://geo-profile-viewer-eight.vercel.app/)
 
-📸 Preview
-
-
 ## ✨ Features
 
 📍 Visual display of user profiles with geographic data
