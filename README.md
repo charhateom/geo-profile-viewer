@@ -27,26 +27,6 @@ Geo Profile Viewer is an interactive web application that displays user profiles
 
 ---
 
-## 📁 Folder Structure
-geo-profile-viewer/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ └── Card.jsx
-│ ├── data/
-│ │ └── data.js
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── tailwind.config.js
-├── postcss.config.js
-├── vite.config.js
-├── package.json
-└── README.md
-
----
-
 ## 🚀 Getting Started Locally
 
 ### Prerequisites
